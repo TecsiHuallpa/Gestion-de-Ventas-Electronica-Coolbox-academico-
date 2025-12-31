@@ -21,8 +21,10 @@ Características Principales:
 - Punto de venta dinámico con carrito
 - Registro de clientes con datos fiscales
 - Historial completo de transacciones
-- Generación básica de facturas (XML/PDF) (No creo que hagamos esto)
+- Generación de facturas (XML/PDF) 
 - Interfaz unificada con sistema de estilos
+- Pruebas independientes de calidad automatizadas (Unitarias, Integracion , Sistema)
+  
 
 Requisitos:
 ------------
